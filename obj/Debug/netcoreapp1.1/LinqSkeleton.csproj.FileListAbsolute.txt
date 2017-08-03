@@ -1,0 +1,8 @@
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.deps.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.runtimeconfig.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.runtimeconfig.dev.json
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/bin/Debug/netcoreapp1.1/LinqSkeleton.pdb
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.AssemblyInfo.cs
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.dll
+/home/hermitwife/cojo/dotnetcore/fundamentals/music-linq/obj/Debug/netcoreapp1.1/LinqSkeleton.pdb
